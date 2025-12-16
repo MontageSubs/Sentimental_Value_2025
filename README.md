@@ -1,12 +1,9 @@
-# 示例 宇宙自助洗衣店 Cosmos Laundromat 2015 [◂电影双语标题+年份]
+# 情感价值 Sentimental Value 2025
 
-示例 在一个荒凉的小岛，自杀羊弗兰克满足他的命运在一个古怪的推销员，谁提供他一生的礼物。他一点也不知道，他只能处理这么多的“寿命”。
+姐妹Nora和Agnes与疏远的父亲——魅力非凡的导演Gustav重聚。这位昔日名导试图让舞台剧演员Nora参演自己寄予厚望的复出之作，却遭女儿拒绝。Nora很快发现，父亲已将她的角色转给了一位野心勃勃的好莱坞新星。突如其来的变故迫使两姐妹直面与父亲的复杂纠葛，而这位美国明星的加入，更让本就微妙的家庭关系陷入新的波澜。
 
-[▲ 对这部电影的中文介绍，可以来自中文维基百科和TMDB，或者在许可协议不冲突的情况下来自其他来源，比如豆瓣，也可以自行从英语进行翻译]
+<img src="https://image.tmdb.org/t/p/original/n560sxcpDtKcNzl3D7BP67oLsZg.jpg" alt="电影海报" width="200" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/500px-CosmosLaundromatPoster.jpg" alt="电影海报" width="200" />
-
-[▲ 此处提供电影海报的合理使用版本以供解释之用]
 
 <table>
   <tr>
@@ -15,13 +12,11 @@
     <th>TMDB</th>
   </tr>
   <tr>
-    <!-- 豆瓣 --><td><a href="https://example.com"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
-    <!-- IMDb --><td><a href="https://example.com"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
-    <!-- TMDB --><td><a href="https://example.com"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
+    <!-- 豆瓣 --><td><a href="https://movie.douban.com/subject/36413501/"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
+    <!-- IMDb --><td><a href="https://www.imdb.com/title/tt27714581/"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
+    <!-- TMDB --><td><a href="https://www.themoviedb.org/movie/1124566-affeksjonsverdi"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
   </tr>
 </table>
-
-[▲ 此处提供电影的各个数据库链接]
 
 
 
@@ -49,6 +44,8 @@
 
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
 
+<!--
+
 <table>
   <tr>
     <th>字幕库</th>
@@ -64,7 +61,9 @@
   </tr>
 </table>
 
+-->
 [▲ 仅当字幕制作完成且发布后显示此节，对于隐藏请使用 html 语法 ``<!--需要隐藏的内容-->``]
+
 
 <h2 id="字幕进度">⏳ 字幕进度</h2>
 
