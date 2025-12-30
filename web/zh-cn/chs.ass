@@ -1,17 +1,21 @@
 [Script Info]
-; This is an Advanced Sub Station Alpha v4+ script.
-Title: 
 ScriptType: v4.00+
 PlayDepth: 0
 ScaledBorderAndShadow: Yes
-PlayResX: 1916
-PlayResY: 1036
+PlayResX: 1920
+PlayResY: 1080
+Title: 情感价值（2025）中文注释+特效字幕 蒙太奇字幕组
+Original Translation: 翻译：小p
+Original Timing: 时间轴：小p
+Original Editing: 后期：NickCollect | 前期支持：Walker | 技术支持：Frank
+Script Updated By: 蒙太奇字幕组 (MontageSubs)
+Update Details: 2025年12约30日，蒙太奇字幕组。
+
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,71.9,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 Style: OSD,Arial,71.9,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Music,Arial,71.9,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 Style: Note,Arial,71.9,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 
 
@@ -1203,7 +1207,7 @@ Dialogue: 0,2:06:50.47,2:06:54.12,OSD,,0,0,0,,{\an8}摄影\N卡斯帕·图森·�
 Dialogue: 0,2:06:54.56,2:06:58.18,OSD,,0,0,0,,{\an8}剪辑\N奥利维尔·布格·库泰
 Dialogue: 0,2:07:02.72,2:07:06.36,OSD,,0,0,0,,{\an8}配乐\N哈尼亚·拉尼
 Dialogue: 0,2:07:06.85,2:07:10.45,OSD,,0,0,0,,{\an8}蒙太奇字幕组 原创译制
-Dialogue: 0,2:07:10.89,2:07:14.55,OSD,,0,0,0,,{\an8}字幕贡献者\N翻译：小p 时间轴：小p 后期：\N前期字幕支持：Walker 技术支持：Frank
+Dialogue: 0,2:07:10.89,2:07:14.55,OSD,,0,0,0,,{\an8}字幕贡献者\N翻译：小p 时间轴：小p 后期：\N前期支持：Walker 技术支持：Frank
 Dialogue: 0,2:07:14.98,2:07:18.61,OSD,,0,0,0,,{\an8}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,2:07:19.08,2:07:22.70,OSD,,0,0,0,,{\an8}字幕许可\NCC BY‑NC‑SA 4.0
 Dialogue: 0,2:07:40.41,2:07:43.50,OSD,,0,0,0,,{\an8}主演\N雷娜特·赖因斯夫 饰 大女儿诺拉
