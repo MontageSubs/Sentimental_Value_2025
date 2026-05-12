@@ -6,10 +6,10 @@ PlayResX: 1920
 PlayResY: 1080
 Title: 情感价值（2025）中文注释+特效字幕 (Amazon版本) 蒙太奇字幕组
 Original Translation: 翻译：小p
-Original Timing: 时间轴：小p
+Original Timing: 时间轴：小p, 匿名贡献者（美版蓝光）
 Original Editing: 后期：NickCollect | 前期支持：Walker | 技术支持：Frank
 Script Updated By: 蒙太奇字幕组 (MontageSubs)
-Update Details: 2026年1月1日，影片画面情感张力十足，对白精炼无废话。为保证翻译质量，我们以挪威语原版翻译，力求准确还原影片复杂情感。字幕包含实用注释与耗时制作的动态追踪特效。此字幕为我们历时两周的用心之作，敬请欣赏。iTunes版本对应欧洲发行商“荷兰影艺”（24.000 FPS），Amazon版本对应北美发行商“霓虹影业”（23.976 FPS）。 | 2026年2月6日 修正一些内容的翻译。| 2026年5月12日，基于美版4K UHD蓝光（23.976 FPS）与德版1080p蓝光（24.000 FPS）重新适配时间轴，融入多处翻译及细节修复。蒙太奇字幕组。
+Update Details: 2026年1月1日，影片画面情感张力十足，对白精炼无废话。为保证翻译质量，我们以挪威语原版翻译，力求准确还原影片复杂情感。字幕包含实用注释与耗时制作的动态追踪特效。此字幕为我们历时两周的用心之作，敬请欣赏。iTunes版本对应欧洲发行商“荷兰影艺”（24.000 FPS），Amazon版本对应北美发行商“霓虹影业”（23.976 FPS）。 | 2026年2月6日 修正一些内容的翻译。| 2026年5月12日，基于美版4K UHD蓝光（23.976 FPS）与德版1080p蓝光（24.000 FPS）重新适配时间轴，融入多处翻译及细节修复。特别感谢2位朋友协助适配美版蓝光，以及2位朋友指出翻译中的"雨伞"（误译为"哥哥"）错误。蒙太奇字幕组。
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1704,7 +1704,7 @@ Dialogue: 0,2:06:49.29,2:06:52.96,Screen,,0,0,0,,{\fad(0,40)\fs30\b1\c&HE8F1EB&\
 Dialogue: 0,2:06:53.38,2:06:57.05,Screen,,0,0,0,,{\fad(0,40)\fs30\b1\c&HE8F1EB&\pos(923,654)}剪辑\h\h\h\h{\fs50}奥利维尔·布格·库泰
 Dialogue: 0,2:07:01.55,2:07:05.22,Screen,,0,0,0,,{\fad(0,40)\fs30\b1\c&HE8F1EB&\pos(986,654)}配乐\h\h\h\h{\fs50}哈尼亚·拉尼
 Dialogue: 0,2:07:05.68,2:07:09.31,Screen,,0,0,0,,{\fad(0,40)\fs30\b1\c&HE8F1EB&\pos(960,771)}字幕译制\N{\fs50}蒙太奇字幕组
-Dialogue: 0,2:07:09.73,2:07:13.40,Screen,,0,0,0,,{\fad(0,10)\fs30\b1\c&HE8F1EB&\pos(960,771)}字幕贡献者\N翻译：{\fs50}小p {\fs30}时间轴：{\fs50}小p {\fs30}后期：{\fs50}NickCollect\N{\fs30}前期支持：{\fs50}Walker {\fs30}技术支持：{\fs50}Frank
+Dialogue: 0,2:07:09.73,2:07:13.40,Screen,,0,0,0,,{\fad(0,10)\fs30\b1\c&HE8F1EB&\pos(960,771)}字幕贡献者\N翻译：{\fs50}小p {\fs30}时间轴：{\fs50}小p, 匿名贡献者 {\fs30}后期：{\fs50}NickCollect\N{\fs30}前期支持：{\fs50}Walker {\fs30}技术支持：{\fs50}Frank
 Dialogue: 0,2:07:13.81,2:07:17.48,Screen,,0,0,0,,{\fad(0,10)\fs50\b1\c&HE8F1EB&\pos(960,796)}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,2:07:17.90,2:07:21.57,Screen,,0,0,0,,{\fad(0,10)\fs50\b1\c&HE8F1EB&\pos(960,915)}字幕许可\NCC BY-NC-SA 4.0
 Dialogue: 0,2:07:39.31,2:07:56.40,Screen,,0,0,0,,{\an8\fs40\b1\move(1591,1069,1589,-160)}主演{\fs30\b0}\N{\b1}雷娜特·赖因斯夫{\b0} 饰 大女儿诺娜\N{\b1}斯特兰·斯卡斯加德{\b0} 饰 父亲古斯塔夫\N{\b1}英加·伊布斯多特·利勒亚斯{\b0} 饰 小女儿安妮丝\h\h\h\h\h\h\h\h\h\h\h\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\b1}艾丽·范宁{\b0} 饰 好莱坞女星瑞秋
