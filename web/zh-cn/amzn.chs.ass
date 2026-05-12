@@ -1838,7 +1838,7 @@ Dialogue: 0,2:13:11.04,2:13:11.08,Screen,,0,0,0,,{=13}{\fscx100.01\fscy100.01\c&
 Dialogue: 0,2:13:11.04,2:13:11.08,Screen,,0,0,0,,{=11}{\fscx100.01\fscy100.01\pos(1308.03,580.77)\c&HD3FFF9&}看看影业
 Dialogue: 0,2:13:11.08,2:13:15.93,Screen,,0,0,0,,{=13}{\fad(0,710)\fscx100.01\fscy100.01\c&H4D4AF0&\pos(550.94,580.78)\frz18.05}更多影业
 Dialogue: 0,2:13:11.08,2:13:15.93,Screen,,0,0,0,,{=11}{\fad(0,710)\fscx100.01\fscy100.01\pos(1308.03,580.78)\c&HD3FFF9&}看看影业
-Dialogue: 0,2:13:14.45,2:13:16.42,Screen,,0,0,0,,{\an8\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by love
+Dialogue: 0,2:13:14.45,2:13:16.42,Screen,,0,0,0,,{\an8\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
 
 [Aegisub Extradata]
 Data: 1,a-mo,e{"originalText"#3A"{\\frz30.26\\c&H291368&\\bord5\\3c&H715C8C&\\pos(751#2C772)}#E8#AF#BA#E5#A8#9C"#2C"uuid"#3A"70f58c5c-6d70-4007-b4b3-9fd2a5267a1b"}
